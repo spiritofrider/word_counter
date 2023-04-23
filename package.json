@@ -1,0 +1,27 @@
+{
+  "name": "counting-words-project",
+  "version": "1.0.0",
+  "description": "A tool which helps you calculate the number of words entered by the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritofrider/word_counter.git"
+  },
+  "keywords": [
+    "word",
+    "counter"
+  ],
+  "author": "Udit Vikhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiritofrider/word_counter/issues"
+  },
+  "homepage": "https://github.com/spiritofrider/word_counter#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
